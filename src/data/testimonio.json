@@ -1,0 +1,26 @@
+[
+    {
+        "nombre":"Shawn Wang",
+        "pais":"Singapur",
+        "imagen":"shawn",
+        "cargo":"Ingeniero de Sotfware",
+        "empresa":"Amazon",
+        "testimonio":"Da miedo cambiar de carrera. Solo gané la confianza de que podía programar trabajando a traves de los cientos de horas de lecciones gratuidas en freeCodeCamp. Dentro de un año tuve un trabajo de seis cifras como ingeniero de sotfware. <strong>freeCodeCamp cambio mi vida.</strong>"
+    },
+    {
+        "nombre":"Sarah Chima",
+        "pais":"Nigeria",
+        "imagen":"sarah",
+        "cargo":"Ingeniera de Sotfware",
+        "empresa":"ChatDesk",
+        "testimonio":"<strong>freeCodeCamp fue la puerta de entrada a mi carrera</strong> como desarrollador de sotfware. El plan de estudios bien estructurado llevo mis conocimientos de programación de un nivel de principiante total a un nivel muy seguro. Era todo lo que necesitaba para conseguir mi primer trabajo de desarrollador en una empresa increible."
+    },
+    {
+        "nombre":"Emma Bostian",
+        "pais":"Suecia",
+        "imagen":"emma",
+        "cargo":"Ingeniera de Sotfware",
+        "empresa":"Spotify",
+        "testimonio":"Siempre he tenido problemas para aprender JavaScript. He toma muchos curos, pero el curso de freeCodeCamp fue el que se quedó. Estudiar JavaScript. asi como estructuras de datos y algoritmos en <strong>freeCodeCamp me dio las habilidades</strong> y la confianza que necesitaba para conseguir el trabajo de mis sueños como ingeniero de sotfware en Spotify."
+    }
+]
